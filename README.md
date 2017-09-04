@@ -1,6 +1,6 @@
 # redshirt
 
-A [Hoplon][4] project with [Castra][2] designed to...well, that part is up to you.
+A [Hoplon][4] project with [Castra][2] designed to help create interesting RPG characters
 
 ## Dependencies
 
