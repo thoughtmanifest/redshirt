@@ -1,4 +1,4 @@
-# redshirt
+# redshirt 
 
 A [Hoplon][4] project with [Castra][2] designed to help create interesting RPG characters
 
